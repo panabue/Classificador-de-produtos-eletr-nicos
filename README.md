@@ -1,2 +1,2 @@
-# Classificador-de-produtos-eletr-nicos
+# Classificador-de-produtos-eletronicos
 Bot no Telegram que classifica produtos tecnológicos de acordo com seu departamento
