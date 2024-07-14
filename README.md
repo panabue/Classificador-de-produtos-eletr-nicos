@@ -1,4 +1,4 @@
-# Classificador-de-produtos-eletronicos
+# Classificador-de-produtos-eletrônicos
 Bot para o Telegram que classifica produtos eletrônicos de acordo com seu departamento.
 ## Descrição
 Foram definidas 3 classes de produtos eletrônicos (informática, eletrodomésticos, celulares). Para cada classe coletei pelos menos 200 produtos do Mercado Livre utilizando scrapy. 
