@@ -8,5 +8,7 @@ Considerando os modelos pré-treinados Distilbert e Bert em https://huggingface.
 Com o melhor modelo, fiz o bot do telegram para que ele reconheça os produtos dados pelos usuários.
 ## Conteúdo
 (1) o conjunto de dados
+
 (2) o código para o colab para treinamento dos modelos 
+
 (3) código para conectar o modelo no bot do telegram 
