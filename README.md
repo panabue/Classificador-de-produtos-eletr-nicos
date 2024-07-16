@@ -12,5 +12,6 @@ Com o melhor modelo, fiz o Bot do telegram para que ele reconheça os produtos d
 (2) o código para o colab para treinamento dos modelos 
 
 (3) código para conectar o modelo no bot do telegram 
+## Como usar
+Caso queira treinar os modelos novamente, execute o arquivo
 
-(4) modelos treinados para usar no Bot 
